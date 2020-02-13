@@ -2,3 +2,6 @@ $git config --global user.name "juananan"
 $git config --global user.email "angeloviedo1111111@gmail.com"
 
 comandos para enviar el archivo
+$git add .
+$git commit -m "my first Tracking"
+$git push
