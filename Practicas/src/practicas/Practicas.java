@@ -16,6 +16,16 @@ public class Practicas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //script qie érmita visualozar los numeros 1 al 10 for
+        int i=0;
+        for(i=0;i<10;i++){
+            System.out.println(i+1);   
+        }
+        System.out.println( "\n");
+        //impresion i = a 1
+        for(i=1;i<=10;i++){
+            System.out.println(i);   
+        }
     }
     
 }
