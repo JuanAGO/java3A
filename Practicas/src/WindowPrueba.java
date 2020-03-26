@@ -266,8 +266,6 @@ public class WindowPrueba extends javax.swing.JFrame {
 
     private void txtN2KeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtN2KeyReleased
         // TODO add your handling code here:
-        btnSumar.setEnabled(txtN1.getText().length()!=0);
-        btnMostrar.setEnabled(txtN1.getText().length()!=0);
     }//GEN-LAST:event_txtN2KeyReleased
 
     /**
