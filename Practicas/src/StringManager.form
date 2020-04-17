@@ -217,7 +217,7 @@
                           <Component id="lblIniLet" min="-2" pref="175" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace pref="53" max="32767" attributes="0"/>
+                  <EmptySpace pref="49" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -323,7 +323,7 @@
                               <Component id="lblLetter" min="-2" pref="32" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace pref="79" max="32767" attributes="0"/>
+                      <EmptySpace pref="75" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="btnMay" alignment="1" min="-2" pref="84" max="-2" attributes="0"/>
                           <Component id="btnMin" alignment="1" min="-2" pref="84" max="-2" attributes="0"/>
